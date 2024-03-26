@@ -1,5 +1,5 @@
 -# Prerna-
-<h1 align="center color=purple" >Hi 👋, I'm Prerna Navghane</h1>
+<h1 align="center" color="yellow" >Hi 👋, I'm Prerna Navghane</h1>
 <h3 align="center">A passionate frontend developer looking forward for challenging projects to work on</h3>
 <img align="right" width="300" height="300" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/629f38b64b229b67b36cc297_giphy%20(16).gif">
 

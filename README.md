@@ -1,4 +1,5 @@
 <h1 align="center" size="70px">Hi👋 I'am Prerna</h1>
+
 💫 About Me:
 
 🔭 I’m currently working on **Frontend projects**<br>👯 I’m looking to collaborate on  Real -time projects <br>🤝 I’m looking for help with  <br>🌱 I’m currently learning Frame works<br>🫴Connect with on prernanavghane@gmail.com<br>⚡ Fun fact  I'm foodie🧋

@@ -1,13 +1,13 @@
 -# Prerna-
-<h1 align="center">Hi 👋, I'm Prerna Navghane</h1>
-<h3 align="center">A passionate frontend developer looking forward for challenging proects to work on</h3>
+<h1 align="center" color="purple">Hi 👋, I'm Prerna Navghane</h1>
+<h3 align="center">A passionate frontend developer looking forward for challenging projects to work on</h3>
 <img align="right" width="300" height="300" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/629f38b64b229b67b36cc297_giphy%20(16).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prerna2900&label=Profile%20views&color=0e75b6&style=flat" alt="prerna2900" /> </p>
 
 - 🔭 I’m currently working on **frontend**
 
-- 🌱 I’m currently learning **Nodejs, django**
+- 🌱 I’m currently learning **Java Full stack**
 
 - 📫 How to reach me **prernanavghane@gamil.com**
 

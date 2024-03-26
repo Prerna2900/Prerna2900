@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prerna2900&show_icons=true&locale=en" alt="prerna2900" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prerna2900&" alt="prerna2900" /></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/20955511/183303720-487819af-3c20-4854-8ae1-85d70115cf80.png" alt="prerna2900" /></p>
 <!---
 Prerna2900/Prerna2900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

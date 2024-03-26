@@ -16,7 +16,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Prerna2900&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prerna29&label=289&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=prerna29&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

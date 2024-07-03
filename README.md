@@ -1,6 +1,7 @@
 <h1 align="center" size="70px">Hi👋 I'am Prerna</h1>
 
 # 💫 About Me:
+<a href="http://127.0.0.1:5500/portfolio/index.html">My Portfolio</a>
 
 🔭 I’m currently working on **Frontend projects**<br>👯 I’m looking to collaborate on  Real -time projects <br>🤝 I’m looking for help with  <br>🌱 I’m currently learning Frame works<br>🫴Connect with on prernanavghane@gmail.com<br>⚡ Fun fact  I'm foodie🧋
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNoa2duZDhuMGdnaWwyZHgwNXNiMmNvcXVpNDR3Y3QydG1laDNzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" height="200px" width="370px" position="absolute">
